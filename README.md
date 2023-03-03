@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Hunt3rKun
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+You are my![Visitor Count](https://profile-counter.glitch.me/Hunt3rKun/count.svg)visitor,Thank You!:kissing_heart::kissing_heart:
 
-<!---
-Hunt3rKun/Hunt3rKun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hunt3rKun&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+### My Skill Set
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hunt3rKun&layout=compact&theme=tokyonight)
